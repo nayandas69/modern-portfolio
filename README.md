@@ -259,7 +259,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help customizing the portfolio:
 
-- Email: alex@example.com
+- Email: nayanchandradas@hotmail.com
 - GitHub Issues: [Create an issue](https://github.com/nayandas69/modern-portfolio/issues)
 
 ⭐ **Star this repository if it helped you build an amazing portfolio!**
